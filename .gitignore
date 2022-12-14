@@ -1,0 +1,11 @@
+*
+*.tmp
+*.local
+!.md
+**/**
+*.log
+dist/*
+!**/*.md
+coverage/
+!.gitignore
+!**/
